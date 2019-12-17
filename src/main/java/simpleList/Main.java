@@ -15,6 +15,7 @@ public class Main {
         strings.add("third");
 
         print(strings);
+
         strings.update(1, "updated");
         print(strings);
 
